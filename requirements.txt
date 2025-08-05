@@ -1,0 +1,4 @@
+虚拟环境基础配置：
+python3.11
+cuda11.8
+网页教程：https://blog.csdn.net/weixin_44779079/article/details/145828183
